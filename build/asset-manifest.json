@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0b3b90e.css",
+    "main.js": "/static/js/main.a7ce2042.js",
+    "static/media/Mask Group.svg": "/static/media/Mask Group.41ad52efde325b48df1ed6a3904cb7cc.svg",
+    "static/media/logo.svg": "/static/media/logo.b2e75d1d47ad24455ec416b16df7cd79.svg",
+    "static/media/Group 4graph2.svg": "/static/media/Group 4graph2.23aedc68d98a3db90b46d8c9cea4e89d.svg",
+    "static/media/Group 4graph1.svg": "/static/media/Group 4graph1.2a43e55264dbd828f47b974cd6bb6dbe.svg",
+    "static/media/ic_settings.svg": "/static/media/ic_settings.fd916fa23ad956ff4e89da2f0ced72f8.svg",
+    "static/media/bi_chat-left-dots-fill.svg": "/static/media/bi_chat-left-dots-fill.0b358c73404325fbab82c7e0fe9536bd.svg",
+    "static/media/ic_employee.svg": "/static/media/ic_employee.69341f2992bd86acc2235a3e2960dc4f.svg",
+    "static/media/ic_department.svg": "/static/media/ic_department.50b9258f84c5ce1f7ec3676ba95505b9.svg",
+    "static/media/bi_pin-angle-fill.svg": "/static/media/bi_pin-angle-fill.908bd5fad21188e1c910e0c29f20dbab.svg",
+    "index.html": "/index.html",
+    "static/media/Frame 9.svg": "/static/media/Frame 9.b584c405d5e35de7f164430e458d9c0d.svg",
+    "static/media/ic_recruitment.svg": "/static/media/ic_recruitment.16cf51797799f46482730af31675b6d2.svg",
+    "static/media/ic_support.svg": "/static/media/ic_support.c486846a4ca23506dfdabf3bf125403a.svg",
+    "static/media/ic_round-notifications.svg": "/static/media/ic_round-notifications.add05e2202b1c6701d45698b5b0b0177.svg",
+    "static/media/carbon_overflow-menu-horizontal.svg": "/static/media/carbon_overflow-menu-horizontal.04730a4237a82a81b09458cad89aeed3.svg",
+    "static/media/ic_calendar.svg": "/static/media/ic_calendar.788c2e2886a77df457705be85d261e74.svg",
+    "static/media/Frame 10.svg": "/static/media/Frame 10.d6486829933dc4768a0b840f38acb009.svg",
+    "static/media/Frame 10ddd.svg": "/static/media/Frame 10ddd.69d7c1154da62c9a5e7af55477465fbe.svg",
+    "static/media/ic_dashboarddashboard.svg": "/static/media/ic_dashboarddashboard.2d6d5183f5f1a1f8a33008f54cf68f3d.svg",
+    "main.a0b3b90e.css.map": "/static/css/main.a0b3b90e.css.map",
+    "main.a7ce2042.js.map": "/static/js/main.a7ce2042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0b3b90e.css",
+    "static/js/main.a7ce2042.js"
+  ]
+}

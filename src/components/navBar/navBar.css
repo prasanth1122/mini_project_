@@ -1,0 +1,60 @@
+.navbar {
+  max-width: 100%;
+  padding: 30px 0px;
+  margin: 0px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.inputbar {
+  width: 343px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  background-color: #fafafa;
+  padding: 0 10px; /* Added some padding inside the input bar */
+}
+
+.input {
+  width: 90%; /* Take full available width */
+  height: 100%;
+  padding-left: 10px;
+  background-color: #fafafa;
+  border: none;
+  box-sizing: border-box; /* Include padding in width calculation */
+}
+
+.Search {
+  width: 24px;
+  height: 24px;
+}
+
+.input:focus {
+  outline: none; /* Remove the default outline on focus */
+  border: none; /* Ensure no border appears on focus */
+}
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.profilePicture {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.profileName {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #161e54;
+}
+@media (max-width: 1024px) and (min-width: 768px) {
+  .profileName {
+    display: none;
+  }
+}
